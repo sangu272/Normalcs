@@ -8,5 +8,4 @@
 # All rights reserved.
 #
 
-from .memorydatabase import *
 from .mongodatabase import *
