@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-from config import LOG, LOGGER_ID
+from config import LOGGER_ID
 from AnonXMusic import app
 from AnonXMusic.utils.database import delete_served_chat, get_assistant, is_on_off
 
