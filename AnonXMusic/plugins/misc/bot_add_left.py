@@ -3,7 +3,6 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 from config import LOGGER_ID
 from AnonXMusic import app
-from AnonXMusic.utils.database import delete_served_chat, get_assistant, is_on_off
 
 
 @app.on_message(filters.new_chat_members)
