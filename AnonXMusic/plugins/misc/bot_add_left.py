@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-from config import LOG, LOG_GROUP_ID
+from config import LOG, LOGGER_ID
 from AnonXMusic import app
 from AnonXMusic.utils.database import delete_served_chat, get_assistant, is_on_off
 
@@ -28,7 +28,7 @@ async def on_bot_added(_, message):
                     f"**Added By:** {message.from_user.mention}"
                 )
                 await app.send_message(
-                    LOG_GROUP_ID,
+                    LOGGER_ID,
                     text=msg,
                     reply_markup=InlineKeyboardMarkup(
                         [
@@ -73,7 +73,7 @@ async def on_bot_kicked(_, message: Message):
             )
 
             await app.send_message(
-                LOG_GROUP_ID,
+                LOGGER_ID,
                 text=left,
                 reply_markup=InlineKeyboardMarkup(
                     [
