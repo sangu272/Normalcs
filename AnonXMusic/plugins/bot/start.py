@@ -88,8 +88,7 @@ async def start_pm(client, message: Message, _):
             f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}**"
         )
         await vip.edit_text(f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}  ❣️**")
-        
-        await vip.delete()
+        await vip.delete(0.1)
         await asyncio.sleep(0.1)
         await vips.edit_text("𝐁𝐨𝐭")
         await asyncio.sleep(0.1)
