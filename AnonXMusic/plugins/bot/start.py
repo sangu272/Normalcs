@@ -84,15 +84,6 @@ async def start_pm(client, message: Message, _):
                 )
     else:
         out = private_panel(_)
-        vip = await message.reply_text(
-            f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}**"
-        )
-        await vip.edit_text(f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}  ❣️**")
-        await vips.delete()
-
-        done = await message.reply_text("❤️‍🔥")
-        await asyncio.sleep(0.1)
-        await done.delete()
         await message.reply_photo(
             photo=config.START_IMG_URL,
             caption=_["start_2"].format(message.from_user.mention, app.mention),
