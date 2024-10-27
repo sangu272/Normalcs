@@ -90,7 +90,6 @@ async def start_pm(client, message: Message, _):
         await vip.edit_text(f"**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}  ❣️**")
         
         await vip.delete()
-        vips = await message.reply_text("**𝐇𝐞𝐲 𝐁𝐚𝐛𝐲 ꨄ 𝐇𝐨𝐰 𝐀𝐫𝐞 𝐘𝐨𝐮⚡.....**")
         await asyncio.sleep(0.1)
         await vips.edit_text("𝐁𝐨𝐭")
         await asyncio.sleep(0.1)
