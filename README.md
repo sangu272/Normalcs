@@ -20,7 +20,7 @@
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/sangu272/Normalcs/commits/Normalcs> <img src="https://img.shields.io/github/last-commit/sangu272/Normalcs?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>   
 <a href="https://GitHub.com/sangu272"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"></a>
-</p>
+
 
 <a href="https://t.me/NAWAB_OFFICE"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
