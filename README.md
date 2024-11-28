@@ -13,13 +13,10 @@
 <a href="https://t.me/NAWAB_OFFICE"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/sangu272/Normalcs/sangu272"><img src="https://img.shields.io/github/stars/sangu/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/sangu272/Normalcs/network/members"> <img src="https://img.shields.io/github/forks/sangu272/Normalcs?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/sangu272/Normalcs/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/sangu272/Normalcs/commits/Normalcs> <img src="https://img.shields.io/github/last-commit/sangu272/Normalcs?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>   
-<a href="https://GitHub.com/sangu272"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-harry"></a>
+<a href="https://GitHub.com/sangu272"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-Harry"></a>
 
 
 <a href="https://t.me/NAWAB_OFFICE"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
