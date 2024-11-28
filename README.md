@@ -29,7 +29,7 @@
 <a href="https://t.me/NAWAB_OFFICE"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://envs.sh/35a.jpg">
+  <img src="https://envs.sh/35O.jpg">
 
 <a href="https://t.me/NAWAB_OFFICE"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
