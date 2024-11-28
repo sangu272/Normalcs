@@ -1,4 +1,4 @@
-### ❣️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀᴀʀᴏʜɪ ᴡᴏʀʟᴅ❣️
+### ❣️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sɪᴅʜɪ ᴍᴜsɪᴄ ᴡᴏʀʟᴅ❣️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -13,8 +13,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/sangu272/Normalcs/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/sangu272/Normalcs/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
@@ -46,7 +46,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/stkeditz/AAROHIxCHATBOTv2/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/sangu272/Normalcs/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
@@ -69,7 +69,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ [ᴅɪʟ❣️] 」─
+    ─「 sᴜᴩᴩᴏʀᴛ [🎵 sɪᴅʜɪ ᴍᴜsɪᴄ 🎵] 」─
 </h3>
 
 <p align="center">
@@ -90,7 +90,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     ─「 ❣️ ᴄʀᴇᴅɪᴛs ❣️ 」─
 </h3>
 
-🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀᴀʀᴏʜɪ ᴄʜᴀᴛʙᴏᴛ🥺:
+🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ sɪᴅʜɪ ᴍᴜsɪᴄ 🥺:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
@@ -108,9 +108,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/HONEY_SINGH_121"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://t.me/ll_ITZ_NAWAB_HERE_ll"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/stkeditz/AAROHIxMUSICv2) </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sɪᴅʜɪ ᴍᴜsɪᴄ](https://github.com/sarkarop123) ғᴏʀ [sɪᴅʜɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/sangu272/Normalcs) </b>
